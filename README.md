@@ -55,6 +55,7 @@ Sample images for testing the model are provided in the test_images directory. U
 
 ## Sample Testing
 To test the model, you can use the /predict endpoint by uploading images through the FastAPI web interface or using a tool like curl or Postman.
+![Capture](https://github.com/user-attachments/assets/8fd4b1e6-bf98-401c-88cb-21c41c0bef03)
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your enhancements.
