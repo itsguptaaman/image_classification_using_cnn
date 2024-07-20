@@ -48,7 +48,7 @@ Please refer to the [installation](https://github.com/itsguptaaman/image_classif
 uvicorn main:app --reload
 ```
 ### 2. Access the web interface
-Open your browser and go to http://127.0.0.1:8000 to interact with the FastAPI application.
+Open your browser and go to http://127.0.0.1:8000/docs to interact with the FastAPI application.
 
 ## Testing
 Sample images for testing the model are provided in the test_images directory. Use these images to validate the model's performance via the FastAPI application.
